@@ -1,5 +1,5 @@
 # fNIRS-Read
-This is the MATLAB code to read fNIRS signal provided on physionet.
+This is a MATLAB code to read fNIRS signal provided on physionet.
 
 Here is step-by-step toturial to run **Import Data.m** code:
 
