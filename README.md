@@ -1,7 +1,7 @@
 # fNIRS-Read
 This is a MATLAB code to read fNIRS signal provided on physionet.
 
-Fist of all download your fNIRS dataset through following link: <https://physionet.org/content/motion-artifact/1.0.0>
+First of all download your fNIRS dataset through following link: <https://physionet.org/content/motion-artifact/1.0.0>
 
 
 Here is step-by-step toturial to run **Import Data.m** code:
